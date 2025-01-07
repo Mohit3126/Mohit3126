@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohit3126
-- 👀 I’m interested in Sql devloper,java devloper
+- 👀 I’m interested in Sql ,java 
 - 🌱 I’m currently learning Sql,java
 - 💞️ I’m looking to collaborate on Sql
 - 📫 How to reach me @7768mohit_pandit(this is my insta account)
