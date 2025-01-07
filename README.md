@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohit3126
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Mysql
-- 💞️ I’m looking to collaborate on Data Analyst
+- 👀 I’m interested in Sql devloper,java devloper
+- 🌱 I’m currently learning Sql,java
+- 💞️ I’m looking to collaborate on Sql
 - 📫 How to reach me @7768mohit_pandit(this is my insta account)
 - 😄 Pronouns: Pandey
 - ⚡ Fun fact: ...
